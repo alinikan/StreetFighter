@@ -14,6 +14,16 @@ The code base for the game consists of two Python files:
 
 The game is initialized using the Pygame library. The game window is set to 1000x600 pixels. The frame rate is set to 60 frames per second. Game variables, fighter variables, sounds, images, and fonts are all loaded at the start.
 
+## Requirements
+
+To run this game, you need Python 3 and Pygame installed on your system.
+
+## How to Run the Game
+
+To run the game, navigate to the directory containing the `main.py` script and run the following command:
+
+**python3 main.py** or **python main.py**
+
 ## Game Mechanics
 
 The game consists of rounds where two players battle each other. At the start of each round, there's a 3-second countdown before the fight begins.
